@@ -1,0 +1,6 @@
+com\tito\dida\datos\JuegoDAOJDBC.class
+com\tito\dida\web\ServletControlador.class
+com\tito\dida\datos\Conexion.class
+com\tito\dida\datos\PersonajeDAOJBDC.class
+com\tito\dida\dominio\Juego.class
+com\tito\dida\dominio\Personaje.class
